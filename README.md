@@ -11,3 +11,6 @@ KasirAja API Automation Test With Katalon
 <br> - Open Katalon App
 <br> - Clone the repository 
 <br> - Run Test 
+
+**=>Test Run Example**
+![image](https://github.com/tegarmuhammad3775/Katalon-Automation/assets/23182414/9bd14bb8-190a-4a5d-bcfd-029ad9b80368)
